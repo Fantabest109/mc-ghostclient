@@ -13,9 +13,9 @@ ffffffff4444444444   df82b247-ea18-4566-922d-4a1b74e6383e
 444444fffffff   5fb92813-1f39-478b-a3c8-0790873027f5
 -- DWANSXRS TESTİNG DOKUNMA
 2fe5fb04-4805-312a-8058-cb74f07304df
--- SİRİN500 EKLENDİ 09 Nisan 12:00 ÇEKİLECEK
-d0d8495c-8ad1-49b5-8b19-af61deb9a91f
-alttaki fenerci fransiz06 10 nisan 00.00 verildi
+-- siskosirin EKLENDİ 10 nisan 00 verildi
+bc434365-9714-42e0-a5ee-830fcb162306
+alttaki rey34 10 nisan 00.00 verildi
 9f60348e-f565-4bd8-979d-79f0a4e08279
 
 
