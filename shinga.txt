@@ -15,8 +15,8 @@ ffffffff4444444444   df82b247-ea18-4566-922d-4a1b74e6383e
 2fe5fb04-4805-312a-8058-cb74f07304df
 -- SİRİN500 EKLENDİ 09 Nisan 12:00 ÇEKİLECEK
 d0d8495c-8ad1-49b5-8b19-af61deb9a91f
-alttaki fenerci fransiz06 09 Nisan 12:00 ÇEKİLECEK
-92889b11-4e24-461c-ada9-bd6549739796
+alttaki fenerci fransiz06 10 nisan 00.00 verildi
+9f60348e-f565-4bd8-979d-79f0a4e08279
 
 
 
