@@ -44,3 +44,6 @@ YAN PC
 
 OBEZ ÖZLEM
 4b072093-2db3-4be7-ad9c-77b0fc83ae3f
+
+vekf
+dc9b75c488cf45ab9eeff48d7ba62354
