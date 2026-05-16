@@ -14,6 +14,7 @@ dokunma itemsatış
 Bambuserhan
 65186db5-3a20-4c67-aafd-32edac5e7710
 65186db53a204c67aafd32edac5e7710
+doirt
 
 dispenser meryem
 f2af74ab53734e179aee0046a103a498
@@ -53,6 +54,8 @@ kontrant
 4d03bd70-cc85-4841-ab9e-803bf44eba91
 
 
+b5cd227a-1e22-444e-8b47-c5abab845929
+b5cd227a1e22444e8b47c5abab845929
 OBEZ ÖZLEM
 4b072093-2db3-4be7-ad9c-77b0fc83ae3f
 
